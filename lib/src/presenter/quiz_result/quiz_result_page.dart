@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/presenter/quiz_choice/quiz_choice_page.dart';
-import 'package:quiz/src/presenter/quiz_result/quiz_result_cubit.dart';
+import '../quiz_choice/quiz_choice_page.dart';
+import 'quiz_result_cubit.dart';
 
 import '../../domain/entities/result.dart';
 import '../../ui/widgets/show_error.dart';

@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/domain/repo/quiz_parameters_repo.dart';
-import 'package:quiz/src/domain/repo/result_repo.dart';
+import '../domain/repo/quiz_parameters_repo.dart';
+import '../domain/repo/result_repo.dart';
 
 import '../api/api/api.dart';
 import '../domain/repo/quiz_repo.dart';
