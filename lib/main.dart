@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:quiz/src/app/app.dart';
 
+import 'src/app/app.dart';
 import 'src/app/injection.dart';
 
 void main() async {

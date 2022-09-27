@@ -1,5 +1,5 @@
-import 'package:quiz/src/core/either.dart';
-import 'package:quiz/src/domain/entities/quiz.dart';
+import '../../core/either.dart';
+import '../entities/quiz.dart';
 
 import '../../api/api/api.dart';
 

@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:quiz/src/domain/entities/quiz_parameters.dart';
-import 'package:quiz/src/domain/repo/quiz_parameters_repo.dart';
+import '../../domain/entities/quiz_parameters.dart';
+import '../../domain/repo/quiz_parameters_repo.dart';
 
 abstract class QuizChoiceState extends Equatable {
   const QuizChoiceState();

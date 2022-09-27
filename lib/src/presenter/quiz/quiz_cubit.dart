@@ -1,8 +1,8 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/domain/entities/quiz.dart';
-import 'package:quiz/src/domain/entities/result.dart';
+import '../../domain/entities/quiz.dart';
+import '../../domain/entities/result.dart';
 
 import '../../domain/repo/quiz_repo.dart';
 

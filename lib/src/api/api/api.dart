@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:quiz/src/domain/entities/quiz.dart';
+import '../../domain/entities/quiz.dart';
 
 import '../../core/either.dart';
 import '../../domain/entities/quiz_parameters.dart';

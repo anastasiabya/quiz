@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/presenter/quiz/quiz_cubit.dart';
-import 'package:quiz/src/presenter/quiz_result/quiz_result_page.dart';
-import 'package:quiz/src/ui/widgets/circular_progress_indicator.dart';
+import 'quiz_cubit.dart';
+import '../quiz_result/quiz_result_page.dart';
+import '../../ui/widgets/circular_progress_indicator.dart';
 
 import '../../domain/entities/quiz.dart';
 import '../../ui/widgets/show_error.dart';

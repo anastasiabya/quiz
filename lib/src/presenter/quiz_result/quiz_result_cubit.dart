@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/domain/repo/result_repo.dart';
+import '../../domain/repo/result_repo.dart';
 
 import '../../domain/entities/result.dart';
 

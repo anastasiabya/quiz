@@ -1,10 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:quiz/src/presenter/quiz/quiz_page.dart';
-import 'package:quiz/src/presenter/quiz_choice/quiz_choice_cubit.dart';
-import 'package:quiz/src/ui/widgets/circular_progress_indicator.dart';
-import 'package:quiz/src/ui/widgets/show_error.dart';
+import '../quiz/quiz_page.dart';
+import 'quiz_choice_cubit.dart';
+import '../../ui/widgets/circular_progress_indicator.dart';
+import '../../ui/widgets/show_error.dart';
 
 import '../../domain/entities/quiz_parameters.dart';
 

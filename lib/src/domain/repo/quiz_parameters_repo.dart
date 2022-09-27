@@ -1,4 +1,4 @@
-import 'package:quiz/src/domain/entities/quiz_parameters.dart';
+import '../entities/quiz_parameters.dart';
 
 import '../../api/api/api.dart';
 import '../../core/either.dart';
